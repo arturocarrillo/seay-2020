@@ -1,0 +1,36 @@
+.section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+.footer-title{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+.footer-link{
+	color:#868e96 !important;
+	cursor: pointer;
+	text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.footer-link:hover{
+	color: #fff !important;
+}
+/*--  -------------- Privacy --------------  --*/
+.footer-modal-title{
+	width: 90%;
+	font-size: 1.2rem;
+	color: #2f3e50 !important;
+	text-align: justify;
+}
+.footer-modal-information{
+	width: 90%;
+	text-align: justify;
+	font-size: 1rem;
+	color: #000;
+}

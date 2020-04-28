@@ -1,0 +1,28 @@
+.header2 #logo-xl{
+	display: none;
+}
+.header2{
+	transition: all 0.3s linear;
+}
+.header2 .navbar-green .logo-sm{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+.header2 .navbar-green .logo-sm img{
+	justify-content: center;
+	margin: auto;
+}
+.up{
+	z-index: 100;
+	color:red;
+	display:none;
+	padding:15px;
+	background-color:#024959 !important;
+	font-size:20px;
+	color:#fff !important;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+}
